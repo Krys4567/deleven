@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-17_2010",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -661,7 +661,7 @@
             }
           },
           "title1": "Интро",
-          "caption1": "Анимация логоципов,интро для каналов, заставка к видео,короткая инфографика. Видео длиной 9 секунд.",
+          "caption1": "Создание векторных картинак<br>Анимация векторных&nbsp;картинак<br>Создания сценария<br>Видео длиной 10 секунд.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html#form1-8\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">500 рублей</a>",
           "media2": {
             "image": {
@@ -688,7 +688,7 @@
             }
           },
           "title2": "Видео Инфографика",
-          "caption2": "В видео инфографики можно легко и понятно донести зрителю смысл видео. Видео длиной 1 минуты.<br>",
+          "caption2": "Создание векторных картинак<br>Анимация векторных картинак<br>Создания сценария<br>Видео длиной 1 минуты.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"page1.html#form1-8\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">10000 рублей</a>",
           "media3": {
             "image": {
@@ -714,7 +714,7 @@
             }
           },
           "title3": "Видео Инфографика",
-          "caption3": "В видео инфографики можно легко и понятно донести зрителю смысл видео. Видео длиной 2 минуты.",
+          "caption3": "Создание векторных картинак<br>Анимация векторных картинак<br>Создания сценария<br>Видео длиной 2 минуты.",
           "button3": "<a data-app-btn=\"true\" href=\"page1.html#form1-8\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">15000 рублей</a>",
           "media4": {
             "image": {
@@ -920,7 +920,7 @@
           },
           "title2": "2.Обсуждение проекта",
           "caption2": "На вашу электронную почту приходит ответ о нашем решении(согласны или несогласны) .В случаи\"согласны\" мы присылаем вам &nbsp; &nbsp;<br>тест вопросы теста (длинна видео , срок выполнения, музыка и другое), на который вы отвечаете. Дальше уточняем детали .После обсуждения проекта, мы начинаем писать сценарий.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.proprofs.com/survey/preview.php?title=nczh5\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Пройти тест</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.proprofs.com/survey/preview.php?title=nczh5\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Пройти тест</a>  ",
           "media3": {
             "image": {
               "src": "images/google-fonts.png",
@@ -1518,7 +1518,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/deleven-9-1400x78713.png",
+              "src": "@PROJECT_PATH@/assets/images/deleven-9-1400x7870.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1636,7 +1636,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/this-is-1400x140014.png",
+              "src": "@PROJECT_PATH@/assets/images/this-is-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1689,7 +1689,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/4-2000x112515.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/4-2000x11252.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1736,7 +1736,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x112516.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x11253.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1783,7 +1783,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/7-2000x112517.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/7-2000x11254.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
